@@ -130,7 +130,7 @@ const NavBar: React.FC<NavBarProps> = ({ drawerOpen, toggleDrawer, notifications
             ) : (
               <RWALogo className={classes.logo} />
             )}
-            Test
+            Testing
           </Link>
         </Typography>
         <Button
